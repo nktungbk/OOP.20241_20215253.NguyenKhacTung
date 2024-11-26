@@ -1,0 +1,5 @@
+1. Try to add a method addDigitalVideoDisc which allows to pass an arbitrary number of
+arguments for dvd. Compare to an array parameter. What do you prefer in this case?
+I prefer array parameter. Overloading for all the different number of parameters is redundant.
+2. Is JAVA a Pass by Value or a Pass by Reference programming language?
+JAVA is a pass by value programming language.
